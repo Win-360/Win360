@@ -6,6 +6,13 @@ The Win360 Dashboard based on [Pegasus Frontend](https://pegasus-frontend.org/) 
 - **Windows 8.1:** *Untested*, may work fine
 - **Windows 7 SP1:** *Unusable*, has some audio and graphics issues and becomes unusable after closing an app
 - **Linux:** *Untested*, requires a lot of tweaks to work well
+## Installation
+- Download the "Pegasus" and "Settings" archives from the [releases](https://github.com/Win-360/Dashboard/releases) page 
+- Extract the "Pegasus" zip in "*C:\Pegasus*"
+- Extract the "Settings" zip in "*%localappdata%\pegasus-frontend*"
+- Make sure you have installed all the [applets](#applets) in the right path
+- (Optional) If you want to start the dashboard after login, put a shortcut of "pegasus-fe.exe" in "*shell:common startup*" (for all users) or "*shell:startup*" (for the user you are logged into)
+- Enjoy
 ## Applets
 - [Play Disc]() (*D:*\autorun.exe)
 - [Playnite](https://playnite.link/) (*C:\Tools\Playnite*\Playnite.FullscreenApp.exe)
