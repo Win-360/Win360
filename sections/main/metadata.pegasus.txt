@@ -1,0 +1,79 @@
+collection: •My Win360
+shortname: main
+
+
+game: Play Disc
+file: w360://disc
+sortBy: 1
+description:
+  Launches the game of the DVD disc, this applet requires a DVD drive mounted as "D:".
+developer: Win360
+publisher: Win360
+release: 2001-09-11
+launch: D:\autorun.exe
+assets.logo: assets/icons/disc.png
+
+
+game: Game Library
+file: w360://games
+sortBy: 2
+description:
+  Powered by Playnite, an open source video game library manager with one simple goal: provide a unified interface for all of your games.
+developer: Playnite
+publisher: Playnite
+release: 2017-03-28
+launch: C:\Tools\Playnite\Playnite.FullscreenApp.exe
+assets.logo: assets/icons/games.png
+
+
+game: RetroArch
+file: w360://emulator
+sortBy: 3
+description:
+  A frontend for emulators, game engines and media players.
+developer: Libretro
+publisher: Libretro
+release: 2010-05-26
+launch: C:\RetroArch-Win64\retroarch.exe
+assets.logo: assets/icons/emulators.png
+
+
+game: Kodi Media Center
+file: https://kodi.tv
+sortBy: 4
+summary:
+  TV and Media at your hand's reach
+description:
+  Free media center.
+developer: Kodi
+publisher: Kodi
+release: 2003
+launch: "C:\Program Files\Kodi\kodi.exe"
+assets.logo: assets/icons/wmc.png
+
+
+game: Control Panel
+file: w360://settings
+sortBy: 5
+summary:
+  Requires mouse and keyboard
+description:
+  A component of Microsoft Windows that provides the ability to view and change system settings.
+developer: Microsoft
+publisher: Microsoft
+release: 2000-02-17
+launch: C:\Windows\System32\control.exe
+assets.logo: assets/icons/settings.png
+
+
+game: About Win360
+file: w360://about
+sortBy: 6
+summary:
+  Alpha2023.01.28
+description:
+  About Win360, the desktop OS based on Xbox 360's dashboard.
+developer: Win360
+publisher: Win360
+release: 2023-01-27
+assets.logo: assets/icons/about.png

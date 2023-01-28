@@ -1,0 +1,3 @@
+C:\Pegasus\sections\main
+C:\Pegasus\sections\live
+C:\Pegasus\sections\tools
