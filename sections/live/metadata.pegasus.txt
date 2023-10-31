@@ -1,16 +1,15 @@
-collection: WinLive
+collection: Internet
 shortname: live
 
 
 game: Web Browser
 file: w360://browser
-sortBy: 1
+sortBy: 2
 summary:
   Requires mouse and keyboard
 description:
   Opens Internet Explorer or Microsoft Edge.
 developer: Microsoft
 publisher: Windows
-release: 1995-08-16
 launch: "C:\Program Files\Internet Explorer\iexplore.exe"
 assets.logo: assets/icons/internet.png

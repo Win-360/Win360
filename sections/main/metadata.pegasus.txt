@@ -37,10 +37,21 @@ release: 2010-05-26
 launch: C:\RetroArch-Win64\retroarch.exe
 assets.logo: assets/icons/emulators.png
 
+game: Homebrew Launcher
+file: w360://homebrew
+sortBy: 4
+description:
+  The official launcher for Win360 Homebrew. It supports local and removable drives from drive C: to F:.
+developer: Win360
+publisher: Win360
+release: 2023-10-31
+launch: C:\Win360\apps\homebrew\pegasus-fe.exe
+assets.logo: assets/icons/homebrew.png
+
 
 game: Kodi Media Center
 file: https://kodi.tv
-sortBy: 4
+sortBy: 5
 summary:
   TV and Media at your hand's reach
 description:
@@ -54,7 +65,7 @@ assets.logo: assets/icons/wmc.png
 
 game: Control Panel
 file: w360://settings
-sortBy: 5
+sortBy: 6
 summary:
   Requires mouse and keyboard
 description:
@@ -68,9 +79,9 @@ assets.logo: assets/icons/settings.png
 
 game: About Win360
 file: w360://about
-sortBy: 6
+sortBy: 7
 summary:
-  Alpha2023.01.28
+  LiveTesting
 description:
   About Win360, the desktop OS based on Xbox 360's dashboard.
 developer: Win360
