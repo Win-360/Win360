@@ -1,44 +1,62 @@
-2023-10-31T22:10:56 [i] Pegasus alpha16-51-g6421d7a7 (2023-05-21)
-2023-10-31T22:10:56 [i] Running on Windows 10 Version 2009 (x86_64, windows)
-2023-10-31T22:10:56 [i] Qt version 5.15.6
-2023-10-31T22:10:56 [i] Program settings loaded (`C:/Win360/apps/dashboard/config/settings.txt`)
-2023-10-31T22:10:56 [i] Found locale `ar`
-2023-10-31T22:10:56 [i] Found locale `bs`
-2023-10-31T22:10:56 [i] Found locale `ca`
-2023-10-31T22:10:56 [i] Found locale `de`
-2023-10-31T22:10:56 [i] Found locale `en-GB`
-2023-10-31T22:10:56 [i] Found locale `en`
-2023-10-31T22:10:56 [i] Found locale `es`
-2023-10-31T22:10:56 [i] Found locale `fr`
-2023-10-31T22:10:56 [i] Found locale `hu`
-2023-10-31T22:10:56 [i] Found locale `ja`
-2023-10-31T22:10:56 [i] Found locale `ko`
-2023-10-31T22:10:56 [i] Found locale `lt`
-2023-10-31T22:10:56 [i] Found locale `nl`
-2023-10-31T22:10:56 [i] Found locale `pt-BR`
-2023-10-31T22:10:56 [i] Found locale `ru`
-2023-10-31T22:10:56 [i] Found locale `zh-TW`
-2023-10-31T22:10:56 [i] Found locale `zh`
-2023-10-31T22:10:56 [i] Locale set to `en`
-2023-10-31T22:10:56 [i] Found theme `Pegasus Grid` at `:/themes/pegasus-theme-grid/`
-2023-10-31T22:10:56 [i] Found theme `Win360 NXE` at `C:/Win360/apps/dashboard/config/themes/NXE/`
-2023-10-31T22:10:56 [i] SDL version 2.0.20
-2023-10-31T22:10:56 [i] Theme set to `Win360 NXE` (`C:/Win360/apps/dashboard/config/themes/NXE/`)
-2023-10-31T22:10:57 [i] SDL: loading controller mappings from `C:/Win360/apps/dashboard/config/sdl_controllers.txt`
-2023-10-31T22:10:57 [i] Metafiles: Found `C:\Win360\apps\dashboard\sections\live\metadata.pegasus.txt`
-2023-10-31T22:10:57 [i] Metafiles: Found `C:\Win360\apps\dashboard\sections\main\metadata.pegasus.txt`
-2023-10-31T22:10:57 [i] Metafiles: Found `C:\Win360\apps\dashboard\sections\tools\metadata.pegasus.txt`
-2023-10-31T22:10:57 [i] Metafiles: Finished searching in 2ms
-2023-10-31T22:10:57 [i] Media: Finished searching in 0ms
-2023-10-31T22:10:57 [i] Favorites: Finished searching in 0ms
-2023-10-31T22:10:57 [i] Playtime: Finished searching in 1ms
-2023-10-31T22:10:57 [i] Game list post-processing took 0ms
-2023-10-31T22:10:57 [i] 10 games found
-2023-10-31T22:10:57 [i] Gamepad: Connected device 0x0 (Xbox Series X Controller)
-2023-10-31T22:11:04 [w] file:///C:/Win360/apps/dashboard/config/themes/NXE/components/ActionList.qml:27: TypeError: Cannot call method 'canExecute' of undefined
-2023-10-31T22:11:04 [w] file:///C:/Win360/apps/dashboard/config/themes/NXE/pages/details/components/GameDetails.qml:14:3: QML Image: Binding loop detected for property "sourceSize.height"
-2023-10-31T22:11:04 [w] file:///C:/Win360/apps/dashboard/config/themes/NXE/components/ImageViewer.qml:34:7: Unable to assign [undefined] to QUrl
-2023-10-31T22:11:05 [w] file:///C:/Win360/apps/dashboard/config/themes/NXE/components/ImageViewer.qml:34:7: Unable to assign [undefined] to QUrl
-2023-10-31T22:11:06 [w] file:///C:/Win360/apps/dashboard/config/themes/NXE/components/ImageViewer.qml:34:7: Unable to assign [undefined] to QUrl
-2023-10-31T22:11:06 [w] file:///C:/Win360/apps/dashboard/config/themes/NXE/components/ImageViewer.qml:34:7: Unable to assign [undefined] to QUrl
-2023-10-31T22:11:26 [i] Closing Pegasus, goodbye!
+2023-11-05T19:06:08 [i] Pegasus alpha16-51-g6421d7a7 (2023-05-21)
+2023-11-05T19:06:08 [i] Running on Windows 10 Version 2009 (x86_64, windows)
+2023-11-05T19:06:08 [i] Qt version 5.15.6
+2023-11-05T19:06:08 [i] Program settings loaded (`C:/Win360/apps/dashboard/config/settings.txt`)
+2023-11-05T19:06:08 [i] Found locale `ar`
+2023-11-05T19:06:08 [i] Found locale `bs`
+2023-11-05T19:06:08 [i] Found locale `ca`
+2023-11-05T19:06:08 [i] Found locale `de`
+2023-11-05T19:06:08 [i] Found locale `en-GB`
+2023-11-05T19:06:08 [i] Found locale `en`
+2023-11-05T19:06:08 [i] Found locale `es`
+2023-11-05T19:06:08 [i] Found locale `fr`
+2023-11-05T19:06:08 [i] Found locale `hu`
+2023-11-05T19:06:08 [i] Found locale `ja`
+2023-11-05T19:06:08 [i] Found locale `ko`
+2023-11-05T19:06:08 [i] Found locale `lt`
+2023-11-05T19:06:08 [i] Found locale `nl`
+2023-11-05T19:06:08 [i] Found locale `pt-BR`
+2023-11-05T19:06:08 [i] Found locale `ru`
+2023-11-05T19:06:08 [i] Found locale `zh-TW`
+2023-11-05T19:06:08 [i] Found locale `zh`
+2023-11-05T19:06:08 [i] Locale set to `en`
+2023-11-05T19:06:08 [i] Found theme `Pegasus Grid` at `:/themes/pegasus-theme-grid/`
+2023-11-05T19:06:08 [i] Found theme `Win360 NXE` at `C:/Win360/apps/dashboard/config/themes/NXE/`
+2023-11-05T19:06:08 [i] SDL version 2.0.20
+2023-11-05T19:06:08 [i] Theme set to `Win360 NXE` (`C:/Win360/apps/dashboard/config/themes/NXE/`)
+2023-11-05T19:06:09 [i] SDL: loading controller mappings from `C:/Win360/apps/dashboard/config/sdl_controllers.txt`
+2023-11-05T19:06:09 [i] Metafiles: Found `C:\Win360\apps\dashboard\sections\live\metadata.pegasus.txt`
+2023-11-05T19:06:09 [i] Metafiles: Found `C:\Win360\apps\dashboard\sections\main\metadata.pegasus.txt`
+2023-11-05T19:06:09 [i] Metafiles: Found `C:\Win360\apps\dashboard\sections\tools\metadata.pegasus.txt`
+2023-11-05T19:06:09 [i] Metafiles: Finished searching in 4ms
+2023-11-05T19:06:09 [i] Media: Finished searching in 0ms
+2023-11-05T19:06:09 [i] Favorites: Finished searching in 0ms
+2023-11-05T19:06:09 [i] Playtime: Finished searching in 1ms
+2023-11-05T19:06:09 [i] Game list post-processing took 0ms
+2023-11-05T19:06:09 [i] 10 games found
+2023-11-05T19:06:14 [i] Gamepad: Connected device 0x0 (Xbox Series X Controller)
+2023-11-05T19:06:41 [i] Executing command: [`C:\Win360\apps\discloader\DiscLoader.exe`]
+2023-11-05T19:06:41 [i] Working directory: `C:\Win360\apps\discloader`
+2023-11-05T19:06:41 [i] Process 28196 started
+2023-11-05T19:06:41 [i] ----------------------------------------
+2023-11-05T19:06:45 [i] ----------------------------------------
+2023-11-05T19:06:45 [i] The external program has finished cleanly
+2023-11-05T19:06:45 [i] SDL: loading controller mappings from `C:/Win360/apps/dashboard/config/sdl_controllers.txt`
+2023-11-05T19:06:46 [i] Gamepad: Connected device 0x0 (Xbox Series X Controller)
+2023-11-05T19:06:52 [i] Executing command: [`C:\Program Files\Kodi\kodi.exe`]
+2023-11-05T19:06:52 [i] Working directory: `C:\Program Files\Kodi`
+2023-11-05T19:06:52 [i] Process 11636 started
+2023-11-05T19:06:52 [i] ----------------------------------------
+2023-11-05T19:14:01 [i] ----------------------------------------
+2023-11-05T19:14:01 [w] The external program has crashed
+2023-11-05T19:14:02 [i] SDL: loading controller mappings from `C:/Win360/apps/dashboard/config/sdl_controllers.txt`
+2023-11-05T19:14:02 [i] Gamepad: Connected device 0x0 (Xbox Series X Controller)
+2023-11-05T19:14:05 [i] Executing command: [`C:\Program Files\Kodi\kodi.exe`]
+2023-11-05T19:14:05 [i] Working directory: `C:\Program Files\Kodi`
+2023-11-05T19:14:05 [i] Process 10392 started
+2023-11-05T19:14:05 [i] ----------------------------------------
+2023-11-05T19:19:34 [i] ----------------------------------------
+2023-11-05T19:19:34 [w] The external program has crashed
+2023-11-05T19:19:34 [i] SDL: loading controller mappings from `C:/Win360/apps/dashboard/config/sdl_controllers.txt`
+2023-11-05T19:19:34 [i] Gamepad: Connected device 0x0 (Xbox Series X Controller)
+2023-11-05T19:19:40 [i] Closing Pegasus, goodbye!

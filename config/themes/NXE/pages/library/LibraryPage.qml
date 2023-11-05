@@ -261,7 +261,7 @@ Item {
         visible: true
       },
       [Enums.ActionKeys.Left]: {
-        label: "Game Details",
+        label: "Applet Details",
         visible: true
       }
     });

@@ -4,19 +4,18 @@ shortname: main
 
 game: Play Disc
 file: w360://disc
-sortBy: 1
+sortBy: 01
 description:
   Launches the game of the DVD disc, this applet requires a DVD drive mounted as "D:".
 developer: Win360
 publisher: Win360
-release: 2001-09-11
-launch: D:\autorun.exe
+launch: C:\Win360/apps/discloader/DiscLoader.exe
 assets.logo: assets/icons/disc.png
 
 
 game: Game Library
 file: w360://games
-sortBy: 2
+sortBy: 02
 description:
   Powered by Playnite, an open source video game library manager with one simple goal: provide a unified interface for all of your games.
 developer: Playnite
@@ -28,7 +27,7 @@ assets.logo: assets/icons/games.png
 
 game: RetroArch
 file: w360://emulator
-sortBy: 3
+sortBy: 03
 description:
   A frontend for emulators, game engines and media players.
 developer: Libretro
@@ -39,7 +38,7 @@ assets.logo: assets/icons/emulators.png
 
 game: Homebrew Launcher
 file: w360://homebrew
-sortBy: 4
+sortBy: 04
 description:
   The official launcher for Win360 Homebrew. It supports local and removable drives from drive C: to F:.
 developer: Win360
@@ -51,7 +50,7 @@ assets.logo: assets/icons/homebrew.png
 
 game: Kodi Media Center
 file: https://kodi.tv
-sortBy: 5
+sortBy: 05
 summary:
   TV and Media at your hand's reach
 description:
@@ -65,7 +64,7 @@ assets.logo: assets/icons/wmc.png
 
 game: Control Panel
 file: w360://settings
-sortBy: 6
+sortBy: 06
 summary:
   Requires mouse and keyboard
 description:
@@ -79,9 +78,9 @@ assets.logo: assets/icons/settings.png
 
 game: About Win360
 file: w360://about
-sortBy: 7
+sortBy: 07
 summary:
-  LiveTesting
+  0.0.1-alpha
 description:
   About Win360, the desktop OS based on Xbox 360's dashboard.
 developer: Win360
