@@ -1,5 +1,5 @@
 # Win360 Dashboard
-The Win360 Dashboard based on [Pegasus Frontend](https://pegasus-frontend.org/) [alpha16-51-g6421d7a7](https://github.com/mmatyas/pegasus-frontend/releases/download/weekly_2023w20/pegasus-fe_alpha16-51-g6421d7a7_win-mingw-static.zip)
+The Win360 Dashboard based on [Pegasus Frontend](https://pegasus-frontend.org/) alpha16-69-g72b3abcb
 ## Compatibility list
 - **Windows 11 22H2:** *Works perfectly*, no issues encountered
 - **Windows 10 22H2:** *Works well*, no major issues encountered, Pegasus may be bugged when closing some apps
@@ -14,15 +14,11 @@ The Win360 Dashboard based on [Pegasus Frontend](https://pegasus-frontend.org/) 
 - (Optional) If you want to start the dashboard after login, put a shortcut of "pegasus-fe.exe" in "*shell:common startup*" (for all users) or "*shell:startup*" (for the user you are logged into)
 - Enjoy
 ## Applets
-- [Play Disc]() (*D:*\autorun.exe)
-- [Playnite](https://playnite.link/) (*C:\Tools\Playnite*\Playnite.FullscreenApp.exe)
-- [RetroArch](https://www.retroarch.com/) (*C:\RetroArch-Win64*\retroarch.exe)
-- Homebrew Launcher (*C:\Win360\apps*\homebrew)
+- [Load Disc]() (*C:\Win360\apps\discloader*\DiscLoader.exe)
+- [Game Library](https://playnite.link/) (*C:\Tools\Playnite*\Playnite.FullscreenApp.exe)
+- [Emulator](https://www.retroarch.com/) (*C:\Program Files (x86)\EmulationStation* - *C:\Win360\apps\emustation*\pegasus-fe.exe)
+- [Homebrew Launcher]() (*C:\Win360\apps\homebrew*\pegasus-fe.exe)
 - [Kodi](https://kodi.tv/) (*C:\Program Files\Kodi*\kodi.exe)
-- [Control Panel]() (*C:\Windows\System32*\control.exe)
-- [IE/Edge](https://www.microsoft.com/edge) (*C:\Program Files\Internet Explorer*\iexplore.exe)
-- [File Explorer]() (*C:\Windows*\explorer.exe)
-- [BurnAware Free](https://www.burnaware.com/download.html) (*C:\Program Files (x86)\BurnAware Free*\BurnAware.exe)
 ## Credits
 ### Theme
 - [New Pegasus Experience](https://github.com/riquenunes/pegasus-theme-npe)
