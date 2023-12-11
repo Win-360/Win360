@@ -1,10 +1,10 @@
 # Win360 Dashboard
 The Win360 Dashboard based on [Pegasus Frontend](https://pegasus-frontend.org/) alpha16-69-g72b3abcb
 ## Compatibility list
-- **Windows 11 22H2:** *Works perfectly*, no issues encountered
-- **Windows 10 22H2:** *Works well*, no major issues encountered, Pegasus may be bugged when closing some apps
-- **Windows 8.1:** *Untested*, may work fine
-- **Windows 7 SP1:** *Unusable*, becomes unusable after closing an app
+- **Windows 11 23H2:** *Works perfectly*, no issues encountered
+- **Windows 10 22H2:** *Outdated test*, should work fine
+- **Windows 8.1:** *Works very well*, no issues encountered, Pegasus is rarely bugged when closing some apps
+- **Windows 7 SP1:** *Outdated test*, may become unusable after closing an app
 - **Linux:** *Untested*, requires a lot of tweaks to work
 ## Installation
 - Download the "Pegasus" and "Settings" archives from the [releases](https://github.com/Win-360/Dashboard/releases) page 
@@ -16,7 +16,7 @@ The Win360 Dashboard based on [Pegasus Frontend](https://pegasus-frontend.org/) 
 ## Applets
 - [Load Disc]() (*C:\Win360\apps\discloader*\DiscLoader.exe)
 - [Game Library](https://playnite.link/) (*C:\Tools\Playnite*\Playnite.FullscreenApp.exe)
-- [Emulator](https://www.retroarch.com/) (*C:\Program Files (x86)\EmulationStation* - *C:\Win360\apps\emustation*\pegasus-fe.exe)
+- [Emulator](https://emulationstation.org/) (*C:\Program Files (x86)\EmulationStation* - *C:\Win360\apps\emustation*\pegasus-fe.exe)
 - [Homebrew Launcher]() (*C:\Win360\apps\homebrew*\pegasus-fe.exe)
 - [Kodi](https://kodi.tv/) (*C:\Program Files\Kodi*\kodi.exe)
 ## Credits

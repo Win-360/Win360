@@ -1,4 +1,4 @@
-general.theme: C:/Win360/apps/dashboard/config/themes/NXE/
+general.theme: themes/NXE
 general.locale: en
 general.verify-files: true
 general.input-mouse-support: false

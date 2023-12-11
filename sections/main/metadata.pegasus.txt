@@ -1,15 +1,15 @@
-collection: •My Win360
+collection: •My Winbox
 shortname: main
 
 
-game: Play Disc
+game: Load Disc
 file: w360://disc
 sortBy: 01
 description:
   Launches the game of the DVD disc, this applet requires a DVD drive mounted as "D:".
 developer: Win360
 publisher: Win360
-launch: C:\Win360/apps/discloader/DiscLoader.exe
+command: C:\Win360\apps\discloader\DiscLoader.exe
 assets.logo: assets/icons/disc.png
 
 
@@ -21,19 +21,19 @@ description:
 developer: Playnite
 publisher: Playnite
 release: 2017-03-28
-launch: C:\Tools\Playnite\Playnite.FullscreenApp.exe
+launch: C:\Win360\apps\playnite.bat
 assets.logo: assets/icons/games.png
 
 
-game: RetroArch
+game: Emulators
 file: w360://emulator
 sortBy: 03
 description:
-  A frontend for emulators, game engines and media players.
-developer: Libretro
-publisher: Libretro
+  A frontend for emulators based on the EmulationStation integration for Pegasus.
+developer: Pegasus
+publisher: Pegasus
 release: 2010-05-26
-launch: C:\RetroArch-Win64\retroarch.exe
+launch: C:\Win360\apps\emustation\pegasus-fe.exe
 assets.logo: assets/icons/emulators.png
 
 game: Homebrew Launcher
@@ -62,17 +62,14 @@ launch: "C:\Program Files\Kodi\kodi.exe"
 assets.logo: assets/icons/wmc.png
 
 
-game: Control Panel
+game: System Settings
 file: w360://settings
 sortBy: 06
 summary:
-  Requires mouse and keyboard
-description:
-  A component of Microsoft Windows that provides the ability to view and change system settings.
+  Coming Soon
 developer: Microsoft
 publisher: Microsoft
 release: 2000-02-17
-launch: C:\Windows\System32\control.exe
 assets.logo: assets/icons/settings.png
 
 
@@ -80,9 +77,10 @@ game: About Win360
 file: w360://about
 sortBy: 07
 summary:
-  0.0.1-alpha
+  0.0.1.8-ptest
 description:
-  About Win360, the desktop OS based on Xbox 360's dashboard.
+  Win360 Version: 0.0.1.8-ptest<br>
+  Pegasus Version: alpha16-69-g72b3abcb (2023-11-12)<br>
 developer: Win360
 publisher: Win360
 release: 2023-01-27

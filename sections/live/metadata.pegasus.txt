@@ -1,15 +1,11 @@
 collection: Internet
 shortname: live
 
-
-game: Web Browser
-file: w360://browser
-sortBy: 2
+game: Win360 Live
+file: w360://live
+sortBy: 01
 summary:
-  Requires mouse and keyboard
-description:
-  Opens Internet Explorer or Microsoft Edge.
-developer: Microsoft
-publisher: Windows
-launch: "C:\Program Files\Internet Explorer\iexplore.exe"
+  Coming Soon
+developer: Win360
+publisher: Win360
 assets.logo: assets/icons/internet.png
