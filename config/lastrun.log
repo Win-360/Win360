@@ -1,46 +1,37 @@
-2023-12-11T20:21:15 [i] Pegasus alpha16-69-g72b3abcb (2023-11-12)
-2023-12-11T20:21:15 [i] Running on Windows 11 Version 2009 (x86_64, windows)
-2023-12-11T20:21:15 [i] Qt version 5.15.10
-2023-12-11T20:21:15 [i] Program settings loaded (`C:/Win360/apps/dashboard/config/settings.txt`)
-2023-12-11T20:21:15 [i] Found locale `ar`
-2023-12-11T20:21:15 [i] Found locale `bs`
-2023-12-11T20:21:15 [i] Found locale `ca`
-2023-12-11T20:21:15 [i] Found locale `de`
-2023-12-11T20:21:15 [i] Found locale `en-GB`
-2023-12-11T20:21:15 [i] Found locale `en`
-2023-12-11T20:21:15 [i] Found locale `es`
-2023-12-11T20:21:15 [i] Found locale `fr`
-2023-12-11T20:21:15 [i] Found locale `hu`
-2023-12-11T20:21:15 [i] Found locale `it`
-2023-12-11T20:21:15 [i] Found locale `ja`
-2023-12-11T20:21:15 [i] Found locale `ko`
-2023-12-11T20:21:15 [i] Found locale `lt`
-2023-12-11T20:21:15 [i] Found locale `nl`
-2023-12-11T20:21:15 [i] Found locale `pt-BR`
-2023-12-11T20:21:15 [i] Found locale `ru`
-2023-12-11T20:21:15 [i] Found locale `zh-TW`
-2023-12-11T20:21:15 [i] Found locale `zh`
-2023-12-11T20:21:15 [i] Locale set to `en`
-2023-12-11T20:21:15 [i] Found theme `Pegasus Grid` at `:/themes/pegasus-theme-grid/`
-2023-12-11T20:21:15 [i] Found theme `Win360 NXE` at `C:/Win360/apps/dashboard/config/themes/NXE/`
-2023-12-11T20:21:15 [i] Found theme `Win360 NXE (Italiano)` at `C:/Win360/apps/dashboard/config/themes/NXE-it/`
-2023-12-11T20:21:15 [i] SDL version 2.0.20
-2023-12-11T20:21:15 [i] Theme set to `Win360 NXE` (`C:/Win360/apps/dashboard/config/themes/NXE/`)
-2023-12-11T20:21:16 [i] SDL: loading controller mappings from `C:/Win360/apps/dashboard/config/sdl_controllers.txt`
-2023-12-11T20:21:16 [i] Metafiles: Found `C:\Win360\apps\dashboard\sections\main\metadata.pegasus.txt`
-2023-12-11T20:21:16 [i] Metafiles: Finished searching in 1ms
-2023-12-11T20:21:16 [i] Media: Finished searching in 0ms
-2023-12-11T20:21:16 [i] Favorites: Finished searching in 0ms
-2023-12-11T20:21:16 [i] Playtime: Finished searching in 1ms
-2023-12-11T20:21:16 [i] Game list post-processing took 0ms
-2023-12-11T20:21:16 [i] 7 games found
-2023-12-11T20:21:16 [i] Gamepad: Connected device 0x0 (Xbox Series X Controller)
-2023-12-11T20:21:19 [i] Executing command: [`C:\Win360\apps\emustation\pegasus-fe.exe`]
-2023-12-11T20:21:19 [i] Working directory: `C:\Win360\apps\emustation`
-2023-12-11T20:21:19 [i] Process 14580 started
-2023-12-11T20:21:19 [i] ----------------------------------------
-2023-12-11T20:23:15 [i] ----------------------------------------
-2023-12-11T20:23:15 [i] The external program has finished cleanly
-2023-12-11T20:23:15 [i] SDL: loading controller mappings from `C:/Win360/apps/dashboard/config/sdl_controllers.txt`
-2023-12-11T20:23:15 [i] Gamepad: Connected device 0x0 (Xbox Series X Controller)
-2023-12-11T20:23:26 [i] Closing Pegasus, goodbye!
+2023-12-12T14:37:43 [i] Pegasus alpha16-69-g72b3abcb (2023-11-12)
+2023-12-12T14:37:43 [i] Running on Windows 11 Version 2009 (x86_64, windows)
+2023-12-12T14:37:43 [i] Qt version 5.15.10
+2023-12-12T14:37:43 [i] Program settings loaded (`D:/Backups/Win360/Win360_0.0.2-alpha/Win360/apps/dashboard/config/settings.txt`)
+2023-12-12T14:37:43 [i] Found locale `ar`
+2023-12-12T14:37:43 [i] Found locale `bs`
+2023-12-12T14:37:43 [i] Found locale `ca`
+2023-12-12T14:37:43 [i] Found locale `de`
+2023-12-12T14:37:43 [i] Found locale `en-GB`
+2023-12-12T14:37:43 [i] Found locale `en`
+2023-12-12T14:37:43 [i] Found locale `es`
+2023-12-12T14:37:43 [i] Found locale `fr`
+2023-12-12T14:37:43 [i] Found locale `hu`
+2023-12-12T14:37:43 [i] Found locale `it`
+2023-12-12T14:37:43 [i] Found locale `ja`
+2023-12-12T14:37:43 [i] Found locale `ko`
+2023-12-12T14:37:43 [i] Found locale `lt`
+2023-12-12T14:37:43 [i] Found locale `nl`
+2023-12-12T14:37:43 [i] Found locale `pt-BR`
+2023-12-12T14:37:43 [i] Found locale `ru`
+2023-12-12T14:37:43 [i] Found locale `zh-TW`
+2023-12-12T14:37:43 [i] Found locale `zh`
+2023-12-12T14:37:43 [i] Locale set to `en`
+2023-12-12T14:37:43 [i] Found theme `Pegasus Grid` at `:/themes/pegasus-theme-grid/`
+2023-12-12T14:37:43 [i] Found theme `Win360 NXE` at `D:/Backups/Win360/Win360_0.0.2-alpha/Win360/apps/dashboard/config/themes/NXE/`
+2023-12-12T14:37:43 [i] Found theme `Win360 NXE (Italiano)` at `D:/Backups/Win360/Win360_0.0.2-alpha/Win360/apps/dashboard/config/themes/NXE-it/`
+2023-12-12T14:37:43 [i] SDL version 2.0.20
+2023-12-12T14:37:43 [i] Theme set to `Win360 NXE` (`D:/Backups/Win360/Win360_0.0.2-alpha/Win360/apps/dashboard/config/themes/NXE/`)
+2023-12-12T14:37:44 [i] SDL: loading controller mappings from `D:/Backups/Win360/Win360_0.0.2-alpha/Win360/apps/dashboard/config/sdl_controllers.txt`
+2023-12-12T14:37:44 [i] Metafiles: Found `C:\Win360\apps\dashboard\sections\main\metadata.pegasus.txt`
+2023-12-12T14:37:44 [i] Metafiles: Finished searching in 9ms
+2023-12-12T14:37:44 [i] Media: Finished searching in 0ms
+2023-12-12T14:37:44 [i] Favorites: Finished searching in 0ms
+2023-12-12T14:37:44 [i] Playtime: Finished searching in 2ms
+2023-12-12T14:37:44 [i] Game list post-processing took 0ms
+2023-12-12T14:37:44 [i] 6 games found
+2023-12-12T14:37:51 [i] Closing Pegasus, goodbye!

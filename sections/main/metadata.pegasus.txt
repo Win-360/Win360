@@ -36,6 +36,7 @@ release: 2010-05-26
 launch: C:\Win360\apps\emustation\pegasus-fe.exe
 assets.logo: assets/icons/emulators.png
 
+
 game: Homebrew Launcher
 file: w360://homebrew
 sortBy: 04
@@ -62,24 +63,13 @@ launch: "C:\Program Files\Kodi\kodi.exe"
 assets.logo: assets/icons/wmc.png
 
 
-game: System Settings
-file: w360://settings
-sortBy: 06
-summary:
-  Coming Soon
-developer: Microsoft
-publisher: Microsoft
-release: 2000-02-17
-assets.logo: assets/icons/settings.png
-
-
 game: About Win360
 file: w360://about
 sortBy: 07
 summary:
-  0.0.1.8-ptest
+  0.0.2-alpha
 description:
-  Win360 Version: 0.0.1.8-ptest<br>
+  Win360 Version: 0.0.2-alpha<br>
   Pegasus Version: alpha16-69-g72b3abcb (2023-11-12)<br>
 developer: Win360
 publisher: Win360
