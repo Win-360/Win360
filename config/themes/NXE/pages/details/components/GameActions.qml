@@ -13,15 +13,20 @@ ActionList {
   focus: true
   model: ListModel {
     ListElement {
-      label: () => "Play Now"
+      label: () => "Start"
       action: () => game.launch()
       canExecute: () => true
     }
     ListElement {
-      label: () => "Watch Preview"
-      action: () => navigate(pages.videoPlayer, { [Enums.MemoryKeys.VideoPath]: game.assets.video })
-      canExecute: () => !!game.assets.video
+      label: () => "Uninstall"
+      action: () => game.launch()
+      canExecute: () => false
     }
+    //ListElement {
+    //  label: () => "Watch Preview"
+    //  action: () => navigate(pages.videoPlayer, { [Enums.MemoryKeys.VideoPath]: game.assets.video })
+    //  canExecute: () => !!game.assets.video
+    //}
     // ListElement {
     //   label: () => !game.favorite ? "Pin to Home" : "Remove Pin"
     //   action: () => game.favorite = !game.favorite

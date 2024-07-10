@@ -47,11 +47,11 @@ Item {
         wrapMode: Text.Wrap
       }
 
-      Rating {
-        Layout.alignment: Qt.AlignRight
-        id: rating
-        rating: currentGame.rating
-      }
+      //Rating {
+      //  Layout.alignment: Qt.AlignRight
+      //  id: rating
+      //  rating: currentGame.rating
+      //}
 
       GameActions {
         Layout.fillWidth: true
@@ -158,14 +158,14 @@ Item {
         type: "quick-actions"
         component: () => quickActionsPanel
       }
-      ListElement {
-        type: "images"
-        component: () => imagesPanel
-      }
-      ListElement {
-        type: "details"
-        component: () => detailsPanel
-      }
+      //ListElement {
+      //  type: "images"
+      //  component: () => imagesPanel
+      //}
+      //ListElement {
+      //  type: "details"
+      //  component: () => detailsPanel
+      //}
       ListElement {
         type: "description"
         component: () => descriptionPanel

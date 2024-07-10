@@ -1,1 +1,1 @@
-C:\Win360\apps\dashboard\sections\main
+C:\Win360\apps\dashboard\sections\en\main
