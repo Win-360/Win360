@@ -3,14 +3,13 @@ The Win360 Dashboard based on [Pegasus Frontend](https://pegasus-frontend.org/) 
 ## Compatibility list
 - **Windows 11 23H2:** *Works perfectly*, no issues encountered
 - **Windows 10 22H2:** *Outdated test*, should work fine
-- **Windows 8.1:** *Works very well*, no issues encountered, Pegasus is rarely bugged when closing some apps
+- **Windows 8.1:** *Outdated test*, no issues encountered, Pegasus is rarely bugged when closing some apps
 - **Windows 7 SP1:** *Outdated test*, may become unusable after closing an app
 - **Linux:** *Untested*, requires a lot of tweaks to work
-## Installation
-- Download the "Pegasus" and "Settings" archives from the [releases](https://github.com/Win-360/Dashboard/releases) page 
-- Extract the "Pegasus" zip in "*C:\Pegasus*"
-- Extract the "Settings" zip in "*%localappdata%\pegasus-frontend*"
-- Make sure you have installed all the [applets](#applets) in the right path
+## Manual Installation
+- Download the archive from the [releases](https://github.com/Win-360/Dashboard/releases) page 
+- Extract the zip in "*C:\Win360*"
+- Make sure you have installed all the [applets](#applets) in the right path (use the settings app to install them without downloading from the internet)
 - (Optional) If you want to start the dashboard after login, put a shortcut of "pegasus-fe.exe" in "*shell:common startup*" (for all users) or "*shell:startup*" (for the user you are logged into)
 - Enjoy
 ## Applets
