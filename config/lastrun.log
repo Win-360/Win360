@@ -1,37 +1,38 @@
-2024-07-11T00:20:03 [i] Pegasus alpha16-69-g72b3abcb (2023-11-12)
-2024-07-11T00:20:03 [i] Running on Windows 11 Version 2009 (x86_64, windows)
-2024-07-11T00:20:03 [i] Qt version 5.15.10
-2024-07-11T00:20:03 [i] Program settings loaded (`C:/Win360/apps/dashboard/config/settings.txt`)
-2024-07-11T00:20:03 [i] Found locale `ar`
-2024-07-11T00:20:03 [i] Found locale `bs`
-2024-07-11T00:20:03 [i] Found locale `ca`
-2024-07-11T00:20:03 [i] Found locale `de`
-2024-07-11T00:20:03 [i] Found locale `en-GB`
-2024-07-11T00:20:03 [i] Found locale `en`
-2024-07-11T00:20:03 [i] Found locale `es`
-2024-07-11T00:20:03 [i] Found locale `fr`
-2024-07-11T00:20:03 [i] Found locale `hu`
-2024-07-11T00:20:03 [i] Found locale `it`
-2024-07-11T00:20:03 [i] Found locale `ja`
-2024-07-11T00:20:03 [i] Found locale `ko`
-2024-07-11T00:20:03 [i] Found locale `lt`
-2024-07-11T00:20:03 [i] Found locale `nl`
-2024-07-11T00:20:03 [i] Found locale `pt-BR`
-2024-07-11T00:20:03 [i] Found locale `ru`
-2024-07-11T00:20:03 [i] Found locale `zh-TW`
-2024-07-11T00:20:03 [i] Found locale `zh`
-2024-07-11T00:20:03 [i] Locale set to `en`
-2024-07-11T00:20:03 [i] Found theme `Pegasus Grid` at `:/themes/pegasus-theme-grid/`
-2024-07-11T00:20:03 [i] Found theme `New Win360 Experience` at `C:/Win360/apps/dashboard/config/themes/NXE/`
-2024-07-11T00:20:03 [i] SDL version 2.0.20
-2024-07-11T00:20:03 [i] Theme set to `New Win360 Experience` (`C:/Win360/apps/dashboard/config/themes/NXE/`)
-2024-07-11T00:20:04 [i] SDL: loading controller mappings from `C:/Win360/apps/dashboard/config/sdl_controllers.txt`
-2024-07-11T00:20:04 [i] Metafiles: Found `C:\Win360\apps\dashboard\sections\en\main\metadata.pegasus.txt`
-2024-07-11T00:20:04 [w] Metafiles: `C:\Win360\apps\dashboard\sections\en\main\metadata.pegasus.txt`, line 77: Unrecognized game property `launch.uninstall`, ignored
-2024-07-11T00:20:04 [i] Metafiles: Finished searching in 1ms
-2024-07-11T00:20:04 [i] Media: Finished searching in 0ms
-2024-07-11T00:20:04 [i] Favorites: Finished searching in 0ms
-2024-07-11T00:20:04 [i] Playtime: Finished searching in 2ms
-2024-07-11T00:20:04 [i] Game list post-processing took 0ms
-2024-07-11T00:20:04 [i] 6 games found
-2024-07-11T00:20:16 [i] Closing Pegasus, goodbye!
+2024-07-11T22:07:37 [i] Pegasus alpha16-69-g72b3abcb (2023-11-12)
+2024-07-11T22:07:37 [i] Running on Windows 11 Version 2009 (x86_64, windows)
+2024-07-11T22:07:37 [i] Qt version 5.15.10
+2024-07-11T22:07:37 [i] Program settings loaded (`C:/Win360/apps/dashboard/config/settings.txt`)
+2024-07-11T22:07:37 [i] Found locale `ar`
+2024-07-11T22:07:37 [i] Found locale `bs`
+2024-07-11T22:07:37 [i] Found locale `ca`
+2024-07-11T22:07:37 [i] Found locale `de`
+2024-07-11T22:07:37 [i] Found locale `en-GB`
+2024-07-11T22:07:37 [i] Found locale `en`
+2024-07-11T22:07:37 [i] Found locale `es`
+2024-07-11T22:07:37 [i] Found locale `fr`
+2024-07-11T22:07:37 [i] Found locale `hu`
+2024-07-11T22:07:37 [i] Found locale `it`
+2024-07-11T22:07:37 [i] Found locale `ja`
+2024-07-11T22:07:37 [i] Found locale `ko`
+2024-07-11T22:07:37 [i] Found locale `lt`
+2024-07-11T22:07:37 [i] Found locale `nl`
+2024-07-11T22:07:37 [i] Found locale `pt-BR`
+2024-07-11T22:07:37 [i] Found locale `ru`
+2024-07-11T22:07:37 [i] Found locale `zh-TW`
+2024-07-11T22:07:37 [i] Found locale `zh`
+2024-07-11T22:07:37 [i] Locale set to `en`
+2024-07-11T22:07:37 [i] Found theme `Pegasus Grid` at `:/themes/pegasus-theme-grid/`
+2024-07-11T22:07:37 [i] Found theme `New Win360 Experience` at `C:/Win360/apps/dashboard/config/themes/NXE/`
+2024-07-11T22:07:37 [i] Found theme `New Win360 Experience (italiano)` at `C:/Win360/apps/dashboard/config/themes/NXE-it/`
+2024-07-11T22:07:37 [i] SDL version 2.0.20
+2024-07-11T22:07:37 [i] Theme set to `New Win360 Experience` (`C:/Win360/apps/dashboard/config/themes/NXE/`)
+2024-07-11T22:07:38 [i] SDL: loading controller mappings from `C:/Win360/apps/dashboard/config/sdl_controllers.txt`
+2024-07-11T22:07:38 [i] Metafiles: Found `C:\Win360\apps\dashboard\sections\en\main\metadata.pegasus.txt`
+2024-07-11T22:07:38 [w] Metafiles: `C:\Win360\apps\dashboard\sections\en\main\metadata.pegasus.txt`, line 77: Unrecognized game property `launch.uninstall`, ignored
+2024-07-11T22:07:38 [i] Metafiles: Finished searching in 1ms
+2024-07-11T22:07:38 [i] Media: Finished searching in 0ms
+2024-07-11T22:07:38 [i] Favorites: Finished searching in 0ms
+2024-07-11T22:07:38 [i] Playtime: Finished searching in 1ms
+2024-07-11T22:07:38 [i] Game list post-processing took 0ms
+2024-07-11T22:07:38 [i] 6 games found
+2024-07-11T22:08:14 [i] Closing Pegasus, goodbye!
