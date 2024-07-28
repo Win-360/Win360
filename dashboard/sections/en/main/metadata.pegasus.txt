@@ -67,9 +67,9 @@ game: About Win360
 file: w360://about
 sortBy: 07
 summary:
-  0.0.4.1-alpha
+  0.0.5-alpha
 description:
-  Win360 Version: 0.0.4.1-ptest<br>
+  Win360 Version: 0.0.5-alpha<br>
   Pegasus Version: alpha16-69-g72b3abcb (2023-11-12)<br>
 developer: Win360
 publisher: Win360
