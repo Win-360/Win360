@@ -1,0 +1,11 @@
+collection: Internet
+shortname: live
+
+game: Win360 Live
+file: w360://live
+sortBy: 01
+summary:
+  Coming Soon
+developer: Win360
+publisher: Win360
+assets.logo: assets/icons/internet.png
