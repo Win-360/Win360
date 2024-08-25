@@ -53,7 +53,7 @@ game: Kodi Media Center
 file: https://kodi.tv
 sortBy: 05
 summary:
-  TV and Media at your hand's reach
+  TV e Media a portata di mano
 description:
   Free media center.
 developer: Kodi
@@ -63,13 +63,27 @@ launch: "C:\Program Files\Kodi\kodi.exe"
 assets.logo: assets/icons/wmc.png
 
 
+game: Impostazioni di sistema
+file: w360://settings
+sortBy: 06
+summary:
+  Richiede input via mouse
+description:
+  System Settings
+developer: Win360
+publisher: Win360
+release: 2024-03-08
+launch: "C:\Win360\apps\settings\settings.exe"
+assets.logo: assets/icons/settings.png
+
+
 game: Informazioni su Win360
 file: w360://about
 sortBy: 07
 summary:
-  0.0.5-alpha
+  0.0.6-alpha
 description:
-  Win360 Version: 0.0.5-alpha<br>
+  Win360 Version: 0.0.6-alpha<br>
   Pegasus Version: alpha16-69-g72b3abcb (2023-11-12)<br>
 developer: Win360
 publisher: Win360
