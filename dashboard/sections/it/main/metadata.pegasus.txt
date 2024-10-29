@@ -9,7 +9,7 @@ description:
   Launches the game of the DVD disc, this applet requires a DVD drive mounted as "D:".
 developer: Win360
 publisher: Win360
-launch: C:\Win360\apps\discloader\DiscLoader.exe
+launch: C:\Win360\apps\discloader\360DiscLoader.exe
 assets.logo: assets/icons/disc.png
 
 
